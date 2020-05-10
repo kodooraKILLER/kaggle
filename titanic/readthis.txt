@@ -1,0 +1,2 @@
+This folder is for the titanic competition (2010).
+Considered as the "hello world" of kaggle competitions, this will be my first kaggle submission
